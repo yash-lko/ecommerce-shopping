@@ -1,5 +1,5 @@
 
-<h1 align="center">🛒 Ecommerce Cart System</h1>
+<h1 align="center">🛒 Ecommerce Shop</h1>
 
 <p align="center">
   <img width="80%" src="https://github.com/user-attachments/assets/8865b079-cad6-452b-84ff-3ad6990d55c8" alt="Ecommerce Store Screenshot" />
