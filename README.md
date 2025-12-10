@@ -40,15 +40,15 @@ npm run dev
 
 Folder Structure 
 
-Ecommerce-Cart-System/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── redux/
-│   └── App.jsx
-├── package.json
-└── tailwind.config.js
+Ecommerce-Cart-System/ <br>
+├── public/ <br>
+├── src/ <br>
+│   ├── components/ <br>
+│   ├── pages/ <br>
+│   ├── redux/ <br>
+│   └── App.jsx <br>
+├── package.json <br>
+└── tailwind.config.js <br>
 
 ## 🚀 Getting Started
 
